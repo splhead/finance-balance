@@ -28,7 +28,9 @@
       {
         "ts": "never"
       }
-    ]
+    ],
+    "no-return-assign": "off",
+    "no-param-reassign": "off"
   },
   "settings": {
     "import/resolver": {
